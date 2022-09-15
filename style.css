@@ -43,3 +43,11 @@ input{
     background-color: var(--primary-dark);
     border-color: var(--primary-green);
 }
+img{
+ height: 200px;
+ width: 50%;
+ margin: auto;
+ align-items: center;
+ margin-left: 25%;
+ margin-top: 5%;
+}
